@@ -24,7 +24,6 @@ class Phone {
     }
     
     func install() -> Void {
-        
         self.softWare.run()
     }
     

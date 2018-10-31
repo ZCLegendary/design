@@ -18,7 +18,6 @@ class Chair {
     }
     
     func installProgram(_ name: String) -> Void {
-        
         self.controll.selectProgram(name)
     }
     
